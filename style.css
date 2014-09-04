@@ -129,6 +129,10 @@ body {
 }
 
 .showmore {
-	color: blue;
-	padding-left: 10%;
+	font-family: 'Sue Ellen Francisco', cursive;
+	font-size: 2em;
+}
+
+.more {
+	display: none;
 }
